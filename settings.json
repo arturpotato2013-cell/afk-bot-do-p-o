@@ -9,7 +9,7 @@
     "ip": "serverdopao.aternos.me",
     "port": 27737,
     "version": "26.1.2",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
