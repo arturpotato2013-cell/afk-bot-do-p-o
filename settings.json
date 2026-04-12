@@ -1,6 +1,6 @@
 {
-  "name": "afk-bot-do-p-o",
-  "bot-account": "afk-bot-do-p-o" {
+  "name": "BOTAFK",
+  "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
