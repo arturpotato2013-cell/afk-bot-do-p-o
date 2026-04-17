@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "serverdopao.aternos.me",
-    "port": 27737,
-    "version": "26.1.2",
+    "ip": "serverparafelicidade.aternos.me",
+    "port": 55790,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        ""
       ]
     },
     "chat-log": true,
